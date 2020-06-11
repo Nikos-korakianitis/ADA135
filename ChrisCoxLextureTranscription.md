@@ -1,6 +1,6 @@
-# Alexopoulou ???
+# Alexopoulou 00:04:40 ???
 
-# Andriakaina
+# Andriakaina 00:11:40
 
 Μέρος 1: Μεταγραφή 8' χωρίου από διάλεξη του C. Cox  (11:40-19:40)
 
@@ -149,7 +149,12 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 Πρόκειται για γυναικείες φωνές  που φιλτράρονται με διαφορετικούς τρόπους. Θα σας δείξω ένα μικρό κομμάτι από το Zaar  [μια αρχαία τελετουργία που τελείται δημόσια και στοχεύει στον εξορκισμό], του οποίου η εγγραφή έγινε στην «παραδοσιακή Αφρική» - παραδοσιακή Αφρική είναι οι όροι που χρησιμοποιεί ο Halim El-Dabh-.
 
-# Zipela_20200521 Cox's lecture  00:35:40-00:42:53
+# Δημήτρης Γάκης 00:19:40
+
+
+# Γιώργος Ζαφειριάδης 00:27:40
+
+# Ζωή Ζηπέλα 00:35:40-00:42:53
 
 00:36:11
 
@@ -184,9 +189,17 @@ In Greek
 
 Αυτό είναι ένα υπέροχο αυτοπαθητικό έργο, είναι μία εκδοχή των text scores, τα οποία μέσω του fluxus και της σύγχρονης τέχνης έγιναν πασίγνωστα κατά τη δεκαετία του 1960. Αυτό το έργο αποτελείται από απλά τέσσερις περιγραφικές προτάσεις της διαδικασίας, γραμμένη σε κασετόφωνο και έπαιζε στο δωμάτιο επαναλαμβανόμενα, μέχρι τα χαρακτηριστικά των συχνοτήτων του κάτοικου αυτού του συγκεκριμένου χώρου, ενισχυθεί από την κυρίευση του ήχου της ομιλίας. Αυτό είναι το κείμενο και πρόκειται να παίξω πρώτα όλο το κείμενο, στην πραγματικότητα θα παίξω τμήματα του κειμένου και έπειτα θα παίξω ποικίλες προσεγγίσεις όπως πάει. Οπότε τα κείμενα, τα αρχικά κείμενα ακούγονται κάπως έτσι… 00:42:52
 
-# 
-## Christoph Cox – History of Sound Art
-#### 1:23:40 - 1:31:40
+# Χριστίνα Καλαντζή 00:43:40
+
+# Ευτυχία Κονδύλη 00:51:40
+
+# Νίκος Κορακιανίτης 00:59:40
+
+# Ειρήνη Μούκα 01:07:40
+
+# Σίσσυ Μπαρακάρη 01:15:40
+
+# Μαργαρίτα Ξαγοράρη 1:23:40 - 1:31:40
 
 Amazing film, filmed with GoPro cameras largely, attached to the fishermen’s arms and heads and whatever. So, it is a very, kind of, visually disorienting film, but it is I think the sound that helps to take that image, which is always flat and right there in-front of you... and really kind of makes that image envelop you. And I will show the trailer, this is the commercial trailer for it… there it is. And the trailer is just a clip from the film, it’s a particular clip from the film, but I really 
 encourage you to see it. One of the reasons why… the sound design is done by Ernst Karel, who is a fantastic sound artist , 
@@ -226,5 +239,41 @@ or is it just (no sound) how can we (no sound)
 Before that talk today, I was talking about the different ways we approach sound and image, right? So… I guess  I was saying  
 this isn’t something kind of unique to me.
 
+# Παντελής Ξενοφώντος 01:31:40
+
+Christoph Cox – History of Sound Art, απόσπασμα από το 1:31:40 ως το 1:39:40
+
+Απομαγνητοφώνηση
+
+-Yeah… I was talking before, before the talk today, I was talking about the different ways we approach sound and image, right? I was saying this isn’t something kind of unique to me but the way in which the visual… let’s say modern, experimental, whatever we wanna call it, contemporary, visual art it’s something that’s like… a tourist attraction in any city… right?... the biggest tourist venues in any city are gonna be the modern contemporary art museum and how that’s still now quite the same with sound and image. One of the folks I was talking to suggested maybe that has to do with the fact… you may be eluded to that sound is still alerts us to danger in a certain way that image maybe, of course the image does this but sound makes us… you know…and so the question is... is anything that’s gonna be noisy… or that its gonna alert us in that way always gonna put us in a place of kinda of discomfort… But the question of… I do think that so much of what’s going on over the last…  (now someone could say it’s always been there) but over the last 40-50 years it is an attention to listening and I do think that… people like John Cage, people like Pauline Oliveros or some I didn’t mention, Pauline Oliveros who says this is great practice of deep listening and when you start… you know… kind of living on a sonic world you start hearing your world really differently, things that… peoples refrigerators start to be super interesting, and peoples you know subways… what I mean it’s like that’s really fascinating and… what Cage did, by shifting attention from foreground to background really did that so in our everyday lives… so… sort of look out for these things and then in a certain sense I think this is what we wanted we become artists in that sense so far as we select and we shape a set of things like … that’s fascinating, that’s interesting and I think Murray Schafer, one of the later guys I mentioned, thought that maybe we can actually begin to design our sound world in a way… it isn’t sometimes… it isn’t designed, we design our… we design our visual world, but we don’t always design our sonic world and that’s… you know… maybe at our peril. I don’t know if that answered the question... Thanks. Yeah…
+
+-Hi… so it seems like that the technology that tape recorder has inspired a lot creativity from tape loops of minimalism to sound recording, but it doesn’t seem like that the Internet and mobile technology have inspired creativity, they’ve changed the way we distribute music and so on, but I mean they have inspired artists do they lead to creative kind of ideas?
+
+-That’s a really good question. I mean I think certainly digital media have, like broadly speaking... I mean anybody who works with sort of.. you know glitch... and sort of digital reading and processing… is interested in that but you… but the technologies themselves, whatever the i-pod or the… I can tell you context, you probably know, context in which those have been used creatively but are those devices themselves it’s true that they seem more to be extensions of previous media rather than media that that provoke particular creativity in their own right. Now I was just listening to those Anthony Braxton… who’s just been an amazing experimentalist for decades, has a project now where he distributes i-pods all of his performers and at various times they can kind of scroll through and play previous recordings of his work and if you’ve heard this it’s like tremendously cacophony stuff, but again that’s just using the i-pod as a… I mean… it’s fantastic, it’s amazing stuff, but it’s… it is just using it as a… as a particularly handy playback mechanism… whereas all these old tape recorders were like these clunky things... now we have these... huge powerful computers in our pockets… yeah… and I think that’s a good point though that question about the use of... yeah… Jim… yeah.
+
+-So my question […] and in talking about it he suggested that historically they have been two sort of modalities of music one is live and the other is recorded, he has introduced a third which is generative… and the idea is that you download this and then it plays that kind of algorithmically… you know… sort of generated infinite in time and space… kind of music and I’m just curious whether first of all you buy his argument about this sort of two kinds of modalities of… you know… recorded and live and then whether generative or algorithmic is a new thing… and then alsο… what whether there is emerging I mean a sort of like building and a last question… a sort of a practice around the AI and other kinds of ways in which we are going to use machines… I mean obviously your presentation was a kind of history of machines… when we use machines to create things that we don’t expect… we are not familiar with, we don’t control… and that maybe there is sort of other to what we understand to be either music or sound.
+
+-Yeah… I love the inner thing like there was live music until 1878, then there was recorded music and then there is me hahaha… but no I mean he was great, he is great and he has totally been a there for friend of so many important things, so for sure… yeah the question of maybe…  maybe that is an answer maybe… you did the question of generative music which… I mean someone like […] showed that you can use tape recorders to produce generative music… right… you can just produce two tape recorders and have them at slightly different speeds and they... but that’s different than the kind of generative stuff that… that you know he was talking about, works at the level of code and algorithm and it doesn’t just… it’s something it generates something new in the world rather than simply… and I think it’s also different from earlier generative projects which could only work with existing materials that this is the use of the algorithm to produce… there is a long and really cool history of generative stuff… I mean I haven’t heard that the newest eno stuff it would be really cool to see ways during of it… but that probably there is maybe is the answer to that question. Not specifically about the i-pod but about the digital media, about the notion of the algorithm as it’s, as the tool, that’s yeah…
+
+[…]
+
+-I remember when I was in college and doing some film making and my film professor… we were talking about recording somebody… from… you know… recording somebody over the telephone and then she said I don’t know whether this is actually true but it freaked me out at that time she said… that sound the sound of somebody on the other line far away they add that… to the phone line because they know that you would be way too freaked out if it sounded like the person was right next to you… but no… that’s not true, is it? Anyway…
+
+
+Μετάφραση
+
+-Ναι… Μιλούσα προηγουμένως, πριν την σημερινή συζήτηση, μιλούσα για τους διαφορετικούς τρόπους που προσεγγίζουμε τον ήχο και την εικόνα, σωστά;… Έλεγα ότι αυτό δεν είναι κάτι μοναδικό για μένα, αλλά με τον τρόπο με τον οποίο η εικαστική… Ας πούμε μοντέρνα, πειραματική, όπως θέλουμε να την ονομάσουμε, σύγχρονη, εικαστική τέχνη είναι κάτι που μοιάζει… τουριστικό αξιοθέατο σε οποιαδήποτε πόλη… σωστά;… οι μεγαλύτερες τουριστικές περιοχές σε οποιαδήποτε πόλη είναι τα μουσεία σύγχρονης τέχνης και αυτό εξακολουθεί να είναι παρόμοιο τώρα με τον ήχο και την εικόνα. Ένας από τους ανθρώπους που μιλούσα πρότεινε ίσως ότι αυτό έχει να κάνει με το γεγονός ότι... ο ήχος μας προειδοποιεί για κίνδυνο με κάποιο τρόπο, βέβαια και η εικόνα το κάνει και αυτή κατά κάποιο τρόπο, αλλά ο ήχος μας κάνει... ξέρετε τώρα... και έτσι η ερώτηση είναι... το οτιδήποτε που είναι θορυβώδες... θα μας προειδοποιήσει με αυτόν τον τρόπο, πάντα θα μας προκαλεί δυσφορία... Αλλά το ερώτημα είναι... νομίζω ότι τόσο μεγάλο μέρος του τι συμβαίνει τα τελευταία (τώρα κάποιος θα μπορούσε να πει ότι έτσι συνέβαινε πάντα) αλλά τα τελευταία 40-50 χρόνια δίνεται μια προσοχή στην ακρόαση και νομίζω ότι… ανθρώπους όπως ο John Cage, όπως η Pauline Oliveros ή κάποιους που δεν ανέφερα, η Pauline Oliveros που λέει ότι αυτή είναι μια εξαιρετική εξάσκηση βαθιάς ακρόασης και όταν ξεκινάτε… ξέρετε… σαν να ζεις σε έναν ηχητικό κόσμο αρχίζετε να ακούτε τον κόσμο σας πολύ διαφορετικά, πράγματα που… τα ψυγεία των ανθρώπων μπορεί να γίνουν εξαιρετικά ενδιαφέροντα, και τα άτομα που γνωρίζετε στο μετρό… αυτό που εννοώ είναι κάποια πράγματα μπορούν να γίνουν πραγματικά συναρπαστικά και… τι έκανε ο Cage μετατοπίζοντας την προσοχή από το πρώτο πλάνο στο φόντο το έκανε αυτό στην καθημερινή μας ζωή… έτσι… ψάξτε για αυτά τα πράγματα και έπειτα, υπό μία έννοια νομίζω, αυτό θέλαμε, να γίνουμε καλλιτέχνες υπό την έννοια του να επιλέγουμε και να διαμορφώνουμε ένα σύνολο πραγμάτων όπως… αυτό είναι συναρπαστικό, είναι ενδιαφέρον και νομίζω ότι ο Murray Schafer, ένας από τους τελευταίους άντρες που ανέφερα, σκέφτηκε ότι ίσως μπορούμε πραγματικά να αρχίσουμε να σχεδιάζουμε τον ηχητικό κόσμο μας με έναν τρόπο… που δεν έχει σχεδιαστεί… σχεδιάζουμε τον οπτικό μας κόσμο, αλλά δεν σχεδιάζουμε πάντα τον ηχητικό μας κόσμο και αυτό… ξέρετε… ίσως μας βάζει σε κίνδυνο. Δεν ξέρω αν απάντησα στην ερώτησή σας. Ευχαριστώ. Ναι…
+
+-Γεια σας, απ’ ό,τι φαίνεται η τεχνολογία του μαγνητοφώνου έχει δώσει ώθηση στη δημιουργικότητα, από τις μινιμαλιστικές ταινίες βρόχου έως την ηχογράφηση, αλλά δεν φαίνεται ότι το Διαδίκτυο και η τεχνολογία των κινητών έχουν δώσει ώθηση στη δημιουργικότητα, έχουν αλλάξει τον τρόπο διανομής μουσικής και ούτω καθεξής, αλλά έχουν εμπνεύσει καλλιτέχνες να οδηγηθούν σε δημιουργικές ιδέες;
+
+-Αυτή είναι μια πολύ καλή ερώτηση. Θέλω να πω πως σίγουρα τα ψηφιακά μέσα έχουν σε γενικές γραμμές… Εννοώ οποιονδήποτε που δουλεύει με… ξερετε, με glitch και… ψηφιακή ανάγνωση και επεξεργασία… ενδιαφέρεται γι’ αυτό αλλά εσείς… αλλά οι ίδιες οι τεχνολογίες… ανεξάρτητα από το i-pod ή το… μπορώ να σας πω το πλαίσιο, που πιθανότατα γνωρίζετε, το πλαίσιο στο οποίο αυτά έχουν χρησιμοποιηθεί δημιουργικά, αλλά είναι οι ίδιες οι συσκευές που μοιάζουν περισσότερο με επεκτάσεις προηγούμενων μέσων αντί για μέσα που προκαλούν ιδιαίτερη δημιουργικότητα από μόνα τους. Τώρα άκουγα τον Anthony Braxton… που ήταν απλά ένας εκπληκτικός πειραματιστής εδώ και δεκαετίες, έχει ένα έργο τώρα όπου διανέμει όλα τα i-pods τους ερμηνευτές και σε διάφορες εποχές πολλές φορές μπορούν να κάνουν κύλιση και να παίξουν προηγούμενες ηχογραφήσεις της δουλειάς του και αν το έχετε ακούσει, είναι σαν τρομερά κακόφωνα πράγματα, αλλά και πάλι χρησιμοποιεί μόνο το i-pod σαν ένα… εννοώ... είναι φανταστικό, είναι καταπληκτικό υλικό… ένας ιδιαίτερα εύχρηστος μηχανισμός αναπαραγωγής... ενώ όλα αυτά τα παλιά μαγνητόφωνα που ήταν σαν αυτά τα αδέξια πράγματα... τώρα έχουμε αυτές τις... ισχυρότατες υπολογιστικές μηχανές στην τσέπη μας...  ναι... και νομίζω ότι αυτό είναι ένα καλό σημείο, ωστόσο, αυτή η ερώτηση σχετικά με τη χρήση… ναι... Jim… ναι.
+
+-Λοιπόν, η ερώτησή μου [...] και μιλώντας για αυτό, πρότεινε ότι ιστορικά έχουν δυο τύπους μουσικής, η μία είναι ζωντανή και η άλλη ηχογραφημένη, έχει εισαγάγει ένα τρίτο που είναι δημιουργική (παραγωγική)... και η ιδέα είναι ότι την κατεβάζετε αυτή και μετά παίζει το είδος του αλγορίθμου που… ξέρετε… επ άπειρο στο χρόνο και στο χώρο… είδος μουσικής και είμαι απλώς περίεργος αν πρώτα απ’ όλα αποδέχεστε το επιχείρημά του γι’ αυτού του είδους το διαχωρισμό σε δύο ειδών τρόπους… ξέρετε… ηχογραφημένη και ζωντανή και έπειτα εάν το παραγωγικό ή το αλγοριθμικό είναι ένα νέο πράγμα… και τότε επίσης… είναι ένα αναδυόμενο είδος… και μια τελευταία ερώτηση… ένα είδος πρακτικής γύρω από την τεχνητή νοημοσύνη και άλλους τρόπους με τους οποίους πρόκειται να χρησιμοποιήσουμε μηχανές… Εννοώ προφανώς ότι η παρουσίασή σας ήταν ένα είδος της ιστορίας των μηχανών… όταν χρησιμοποιούμε μηχανές για να δημιουργήσουμε πράγματα που δεν περιμένουμε… δεν είμαστε εξοικειωμένοι, δεν ελέγχουμε… και ότι ίσως υπάρχει κάτι άλλο από αυτό που καταλαβαίνουμε ότι είναι μουσική ή ήχος.
+
+-Λατρεύω το «εσωτερικό πράγμα» σαν να υπήρχε ζωντανή μουσική μέχρι το 1878, στη συνέχεια υπήρχε η ηχογραφημένη μουσική και έπειτα υπάρχω εγώ χαχαχα... αλλά όχι, εννοώ ότι ήταν υπέροχος, είναι υπέροχος και ήταν πάντα εκεί για τους φίλους τόσων πολλών σημαντικών πραγμάτων, λοιπόν σίγουρα… το ερώτημα ίσως… ίσως αυτή είναι μια απάντηση ίσως… κάνατε την ερώτηση για την παραγωγική μουσική που… εννοώ κάποιος σαν [...] έδειξε ότι μπορείτε να χρησιμοποιήσετε μαγνητόφωνα για να παράξετε generated μουσική… σωστά… μπορείτε να παρουσιάσετε δύο μαγνητόφωνα και να τα έχετε σε ελαφρώς διαφορετικές ταχύτητες αλλά αυτό είναι διαφορετικό από το είδος της δημιουργικής ύλης που… αυτό για το οποίο μιλούσε… λειτουργεί στο επίπεδο του κώδικα και του αλγορίθμου και... δεν είναι μόνο αυτό... δημιουργεί κάτι νέο στον κόσμο και όχι απλά… και πιστεύω είναι επίσης διαφορετικά από παλαιότερα generative projects που θα μπορούσαν να λειτουργήσουν μόνο με τη χρήση του αλγορίθμου για παραγωγή... ναι, υπάρχει μια μακρά και πολύ ωραία ιστορία του generative stuff...  εννοώ ότι δεν έχω ακούσει ότι τα νεότερα πράγματα eno θα ήταν πολύ ωραίο να βλέπεις τρόπους κατά τη διάρκεια αυτού... αλλά ότι πιθανώς υπάρχει η απάντηση σε αυτήν την ερώτηση. Όχι συγκεκριμένα για το i-pod αλλά για τα ψηφιακά μέσα, για την έννοια του αλγορίθμου ως εργαλείο, ναι...
+
+[...]
+
+-Θυμάμαι όταν ήμουν στο κολέγιο και κάναμε κάποια ταινία και ο καθηγητής μου… μιλούσαμε για ηχογράφηση κάποιου… από, ξέρετε… ηχογράφηση κάποιου μέσω τηλεφώνου και μετά είπε δεν ξέρω αν αυτό είναι πραγματικά αλήθεια, αλλά με φρίκαρε εκείνη τη στιγμή, είπε... αυτός ο ήχος, ο ήχος κάποιου στην άλλη άκρη της γραμμής... τον προσθέτουν στην τηλεφωνική γραμμή επειδή ξέρουν ότι θα ήσασταν πολύ φρικιασμένοι αν ακούγονταν σαν το άτομο να ήταν ακριβώς δίπλα σας… αλλά όχι... αυτό δεν είναι αλήθεια, έτσι; Τέλος πάντων.
 
 
